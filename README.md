@@ -42,7 +42,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/YuriLima66/YuriLima66/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/YuriLima66/YuriLima66/snake.svg" alt="Snake animation" />
 
 ###
 
