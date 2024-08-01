@@ -40,14 +40,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/YuriLima66/YuriLima66/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/YuriLima66/count.svg?"  />
-</div>
-
-###
